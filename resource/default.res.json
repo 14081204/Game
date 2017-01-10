@@ -1,0 +1,340 @@
+{
+	"groups": [
+		{
+			"keys": "description_json,165-4_png,165-5_png,165-6_png,165-7_png,166-1_png,166-1_1_png,166-2_png,166-2_1_png,166-3_png,166-3_1_png,166-4_png,166-4_1_png,166-5_png,166-5_1_png,166-6_png,166-6_1_png,166-7_png,166-7_1_png,166-8_png,166-8_1_png,bg_jpg,Canaccept_png,Canfinish_png,cannotaccept_png,canputin_png,Detailbg_png,duihuakuang_png,egret_icon_png,flower_jpg,grass1_jpg,grass2_jpg,Helment_jpg,Informationbg_png,Informationbg1_png,isaccept_png,LightArmor_jpg,monster_png,NoEquipment_png,NPC03_png,NPC04_png,processing_png,road1_jpg,road2_jpg,Shoes_jpg,stand_0001_png,stand_0002_png,stand_0003_png,stand_0004_png,stand_0005_png,stand_0006_png,stand_0007_png,stand_0008_png,Sword_jpg,tree1_jpg,tree2_jpg,unaccept_png,Unfinished_png,userPanelButton_png,wall1_jpg,wall2_jpg,Weapon_jpg,02_png,165-1_png,165-2_png,165-3_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "165-4_png",
+			"type": "image",
+			"url": "assets/165-4.png"
+		},
+		{
+			"name": "165-5_png",
+			"type": "image",
+			"url": "assets/165-5.png"
+		},
+		{
+			"name": "165-6_png",
+			"type": "image",
+			"url": "assets/165-6.png"
+		},
+		{
+			"name": "165-7_png",
+			"type": "image",
+			"url": "assets/165-7.png"
+		},
+		{
+			"name": "166-1_png",
+			"type": "image",
+			"url": "assets/166-1.png"
+		},
+		{
+			"name": "166-1_1_png",
+			"type": "image",
+			"url": "assets/166-1_1.png"
+		},
+		{
+			"name": "166-2_png",
+			"type": "image",
+			"url": "assets/166-2.png"
+		},
+		{
+			"name": "166-2_1_png",
+			"type": "image",
+			"url": "assets/166-2_1.png"
+		},
+		{
+			"name": "166-3_png",
+			"type": "image",
+			"url": "assets/166-3.png"
+		},
+		{
+			"name": "166-3_1_png",
+			"type": "image",
+			"url": "assets/166-3_1.png"
+		},
+		{
+			"name": "166-4_png",
+			"type": "image",
+			"url": "assets/166-4.png"
+		},
+		{
+			"name": "166-4_1_png",
+			"type": "image",
+			"url": "assets/166-4_1.png"
+		},
+		{
+			"name": "166-5_png",
+			"type": "image",
+			"url": "assets/166-5.png"
+		},
+		{
+			"name": "166-5_1_png",
+			"type": "image",
+			"url": "assets/166-5_1.png"
+		},
+		{
+			"name": "166-6_png",
+			"type": "image",
+			"url": "assets/166-6.png"
+		},
+		{
+			"name": "166-6_1_png",
+			"type": "image",
+			"url": "assets/166-6_1.png"
+		},
+		{
+			"name": "166-7_png",
+			"type": "image",
+			"url": "assets/166-7.png"
+		},
+		{
+			"name": "166-7_1_png",
+			"type": "image",
+			"url": "assets/166-7_1.png"
+		},
+		{
+			"name": "166-8_png",
+			"type": "image",
+			"url": "assets/166-8.png"
+		},
+		{
+			"name": "166-8_1_png",
+			"type": "image",
+			"url": "assets/166-8_1.png"
+		},
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "Canaccept_png",
+			"type": "image",
+			"url": "assets/Canaccept.png"
+		},
+		{
+			"name": "Canfinish_png",
+			"type": "image",
+			"url": "assets/Canfinish.png"
+		},
+		{
+			"name": "cannotaccept_png",
+			"type": "image",
+			"url": "assets/cannotaccept.png"
+		},
+		{
+			"name": "canputin_png",
+			"type": "image",
+			"url": "assets/canputin.png"
+		},
+		{
+			"name": "Detailbg_png",
+			"type": "image",
+			"url": "assets/Detailbg.png"
+		},
+		{
+			"name": "duihuakuang_png",
+			"type": "image",
+			"url": "assets/duihuakuang.png"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "flower_jpg",
+			"type": "image",
+			"url": "assets/flower.jpg"
+		},
+		{
+			"name": "grass1_jpg",
+			"type": "image",
+			"url": "assets/grass1.jpg"
+		},
+		{
+			"name": "grass2_jpg",
+			"type": "image",
+			"url": "assets/grass2.jpg"
+		},
+		{
+			"name": "Helment_jpg",
+			"type": "image",
+			"url": "assets/Helment.jpg"
+		},
+		{
+			"name": "Informationbg_png",
+			"type": "image",
+			"url": "assets/Informationbg.png"
+		},
+		{
+			"name": "Informationbg1_png",
+			"type": "image",
+			"url": "assets/Informationbg1.png"
+		},
+		{
+			"name": "isaccept_png",
+			"type": "image",
+			"url": "assets/isaccept.png"
+		},
+		{
+			"name": "LightArmor_jpg",
+			"type": "image",
+			"url": "assets/LightArmor.jpg"
+		},
+		{
+			"name": "monster_png",
+			"type": "image",
+			"url": "assets/monster.png"
+		},
+		{
+			"name": "NoEquipment_png",
+			"type": "image",
+			"url": "assets/NoEquipment.png"
+		},
+		{
+			"name": "NPC03_png",
+			"type": "image",
+			"url": "assets/NPC03.png"
+		},
+		{
+			"name": "NPC04_png",
+			"type": "image",
+			"url": "assets/NPC04.png"
+		},
+		{
+			"name": "processing_png",
+			"type": "image",
+			"url": "assets/processing.png"
+		},
+		{
+			"name": "road1_jpg",
+			"type": "image",
+			"url": "assets/road1.jpg"
+		},
+		{
+			"name": "road2_jpg",
+			"type": "image",
+			"url": "assets/road2.jpg"
+		},
+		{
+			"name": "Shoes_jpg",
+			"type": "image",
+			"url": "assets/Shoes.jpg"
+		},
+		{
+			"name": "stand_0001_png",
+			"type": "image",
+			"url": "assets/stand_0001.png"
+		},
+		{
+			"name": "stand_0002_png",
+			"type": "image",
+			"url": "assets/stand_0002.png"
+		},
+		{
+			"name": "stand_0003_png",
+			"type": "image",
+			"url": "assets/stand_0003.png"
+		},
+		{
+			"name": "stand_0004_png",
+			"type": "image",
+			"url": "assets/stand_0004.png"
+		},
+		{
+			"name": "stand_0005_png",
+			"type": "image",
+			"url": "assets/stand_0005.png"
+		},
+		{
+			"name": "stand_0006_png",
+			"type": "image",
+			"url": "assets/stand_0006.png"
+		},
+		{
+			"name": "stand_0007_png",
+			"type": "image",
+			"url": "assets/stand_0007.png"
+		},
+		{
+			"name": "stand_0008_png",
+			"type": "image",
+			"url": "assets/stand_0008.png"
+		},
+		{
+			"name": "Sword_jpg",
+			"type": "image",
+			"url": "assets/Sword.jpg"
+		},
+		{
+			"name": "tree1_jpg",
+			"type": "image",
+			"url": "assets/tree1.jpg"
+		},
+		{
+			"name": "tree2_jpg",
+			"type": "image",
+			"url": "assets/tree2.jpg"
+		},
+		{
+			"name": "unaccept_png",
+			"type": "image",
+			"url": "assets/unaccept.png"
+		},
+		{
+			"name": "Unfinished_png",
+			"type": "image",
+			"url": "assets/Unfinished.png"
+		},
+		{
+			"name": "userPanelButton_png",
+			"type": "image",
+			"url": "assets/userPanelButton.png"
+		},
+		{
+			"name": "wall1_jpg",
+			"type": "image",
+			"url": "assets/wall1.jpg"
+		},
+		{
+			"name": "wall2_jpg",
+			"type": "image",
+			"url": "assets/wall2.jpg"
+		},
+		{
+			"name": "Weapon_jpg",
+			"type": "image",
+			"url": "assets/Weapon.jpg"
+		},
+		{
+			"name": "02_png",
+			"type": "image",
+			"url": "assets/02.png"
+		},
+		{
+			"name": "165-1_png",
+			"type": "image",
+			"url": "assets/165-1.png"
+		},
+		{
+			"name": "165-2_png",
+			"type": "image",
+			"url": "assets/165-2.png"
+		},
+		{
+			"name": "165-3_png",
+			"type": "image",
+			"url": "assets/165-3.png"
+		}
+	]
+}

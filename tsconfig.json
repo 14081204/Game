@@ -1,0 +1,10 @@
+{
+   "compilerOptions": {
+      "target": "es5",
+      "locale": "zh-CN",
+      "experimentalDecorators":true
+   },
+   "exclude": [
+      "node_modules"
+   ]
+}
